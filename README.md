@@ -1,5 +1,5 @@
 # Imagine-T3D-Importer
-Blender import script for [Imagine](https://en.wikipedia.org/wiki/Imagine_(3D_modeling_software)) [.TDDD object file](http://www.ian.org/ImagineTDDDFormat.html) by Impulse, Inc. (aka 3D Data Description)
+Blender import script for [Imagine](https://en.wikipedia.org/wiki/Imagine_(3D_modeling_software)) by Impulse, Inc. [.TDDD object file](http://www.ian.org/ImagineTDDDFormat.html) (aka 3D Data Description)
 
 See also: [Imagine Staging Stage Editor File Format](istg.zip)
 
