@@ -3,6 +3,8 @@ Blender import script for [Imagine](https://en.wikipedia.org/wiki/Imagine_(3D_mo
 
 See also: [Imagine Staging Stage Editor File Format](istg.zip)
 
+![Screenshot](wizardgsz-u-and-i.jpg)
+
 ## Sample data
 - [Aminet | 3dobj](http://aminet.net/pix/3dobj)
 - [cd.textfiles.com](http://cd.textfiles.com/zoom2/graphics/raytracing/objects/)
